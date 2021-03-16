@@ -1,2 +1,2 @@
 # Hang-Man-Game-Python
-Written by witnn in 5 hours, play for fun.
+Written by witnn in some hours, play for fun.
