@@ -77,6 +77,7 @@ def game():
             win()
 
         if health == 0:
+            print("\nThe word was : "+word)
             lose()
             break
 
